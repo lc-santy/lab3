@@ -2,8 +2,8 @@
 <html>
     <head>
         <title>My Personal Webpage</title>
-        <link rel="stylesheet" href="aboutme.css">
-        <link rel="stylesheet" href="navbar.css">
+        <link rel="stylesheet" href="css/aboutme.css">
+        <link rel="stylesheet" href="css/navbar.css">
         <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" 
 		rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" 
@@ -16,14 +16,14 @@
     <body>
       <nav>
         <div class="aboutme">
-            <a href="index.php"><img src="images/butterfly.png"></a>
+            <a href="home"><img src="images/butterfly.png"></a>
         </div>
         <div class="openMenu"><i class="fa fa-bars"></i></div>
         <ul class="mainMenu">
-            <li><a href="index.php">HOME</a></li>
-            <li><a href="aboutme.php">ABOUT ME</a></li>
-			<li><a href="contact.php">CONTACT</a></li>
-            <li><a href="References.php">REFERENCES</a></li>
+            <li><a href="home">HOME</a></li>
+            <li><a href="aboutme">ABOUT ME</a></li>
+			<li><a href="contact">CONTACT</a></li>
+            <li><a href="References">REFERENCES</a></li>
             <div class="closeMenu"><i class="fa fa-times"></i></div>
             <span class="icons">
                 <i class="fab fa-facebook"></i>
@@ -96,12 +96,6 @@
             <h2><strong>HOBBIES & INTERESTS</strong></h2>
             <p>I play different online games such as Osu, LoL, and Genshin Impact. I also 
 			like watching anime and vtubers.</p>
-			<div class="more">
-					<a href="#" class="read-more">Watch <span>Clips</span></a>
-					<div class="icon-links">
-						<a href="clips.php"><i class="fas fa-paperclip"></i></a>
-					</div>
-				</div>
 			</div>
 		    </div>
         <!--image card end-->
@@ -113,7 +107,6 @@
             <p>
 			Be financially stable<br>
 			Live life without regrets<br>
-			Treat my friend oragoon anywhere he wants</p>
           </div>
         </div>
         <!--image card end-->
