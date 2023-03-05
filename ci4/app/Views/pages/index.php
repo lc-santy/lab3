@@ -23,7 +23,7 @@
         <div class="openMenu"><i class="fa fa-bars"></i></div>
         <ul class="mainMenu">
             <li><a href="index.php">HOME</a></li>
-            <li><a href="aboutme.php">ABOUT ME</a></li>
+            <li><a href="lab3/ci4/public/aboutme.php">ABOUT ME</a></li>
 			<li><a href="contact.php">CONTACT</a></li>
             <li><a href="References.php">REFERENCES</a></li>
             <div class="closeMenu"><i class="fa fa-times"></i></div>

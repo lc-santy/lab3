@@ -22,10 +22,10 @@
         </div>
         <div class="openMenu"><i class="fa fa-bars"></i></div>
         <ul class="mainMenu">
-            <li><a href="index.php">HOME</a></li>
-            <li><a href="aboutme.php">ABOUT ME</a></li>
-			<li><a href="contact.php">CONTACT</a></li>
-            <li><a href="References.php">REFERENCES</a></li>
+            <li><a href="home">HOME</a></li>
+            <li><a href="aboutme">ABOUT ME</a></li>
+			<li><a href="contact">GUESTS</a></li>
+            <li><a href="References">REFERENCES</a></li>
             <div class="closeMenu"><i class="fa fa-times"></i></div>
             <span class="icons">
                 <a href="https://www.facebook.com/profile.php?id=100003531320849">
@@ -50,7 +50,7 @@
 				and interests, etc.<br>
 			</p>
 
-			<button class="dl"><a href="Webpage.html">Discover</a></button>
+			<button class="dl"><a href="aboutme">Discover</a></button>
             
             <p class="contact-me">Contact Me</p>
             <ul class="footer-ul">
