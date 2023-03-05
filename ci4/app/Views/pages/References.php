@@ -16,7 +16,7 @@
         <ul class="mainMenu">
             <li><a href="home">HOME</a></li>
             <li><a href="aboutme">ABOUT ME</a></li>
-			<li><a href="contact">CONTACT</a></li>
+			<li><a href="guest/create">GUESTS</a></li>
             <li><a href="References">REFERENCES</a></li>
             <div class="closeMenu"><i class="fa fa-times"></i></div>
             <span class="icons">
